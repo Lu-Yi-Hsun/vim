@@ -7,4 +7,13 @@ git clone https://github.com/lu-yi-hsun/vim.git ~/.vim
 
 ```
 
+into vim
+```
+vim
+```
 
+install
+
+```
+:PlugInstall
+``
